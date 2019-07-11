@@ -1,0 +1,12 @@
+{
+    "produtos": [
+        {
+            "nome": "Assolan",
+            "isComplete": true
+        },
+        {
+            "nome": "Atroveran",
+            "isComplete": true
+        }
+    ]
+}
